@@ -1,0 +1,28 @@
+/* Add application styles & imports to this file! */
+.amenu {
+  margin: 0;
+  padding: 0 0 0 12px;
+}
+.amenu li {
+  margin: 5px;
+}
+.amenu li a {
+  border: 1px solid #ccc;
+  display: block;
+  padding: 1px 5px;
+  border-radius: 3px;
+}
+a {
+  text-decoration: none;
+}
+.tmenu {
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+.tmenu li {
+  display: inline-block;
+  padding: 1px 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin: 0 5px;
+}
